@@ -416,3 +416,7 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+#addtional visual studio files
+*.vcxproj
+*.vcxproj.filters
