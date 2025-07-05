@@ -13,4 +13,4 @@ https://github.com/theLemorange/WacomGamingEnabler/releases/tag/v1.0
 
 and do let me know about any issues or improvements that need to be made.
 This is my first c++ project and I mainly made this for a friend who is not able to use a mouse. 
-If this helped you I want to know! 
+If this helped you I'd love to know! 
