@@ -1,5 +1,5 @@
 # WacomGamingEnabler
-An app that enables playing unity games that usually don't recognise wacom tablet inputs
+An app that enables playing unity games that usually don't recognise wacom tablet inputs.
 Tested it with 7 Days To Die and GTFO.
 
 For accessability reasons some people cannot use a mouse and are using wacom tablets to play games. Some unity games are using raw mouse inputs and therefore one is not able to control the camera in the game using a wacom tablet. 
